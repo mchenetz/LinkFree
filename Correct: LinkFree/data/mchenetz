@@ -1,0 +1,16 @@
+{
+  "name": "Michael Chenetz",
+  "bio": "Michael Chenetz is the head of technical product marketing and has lead cloud strategy in the CTO org for Cisco. Michael has consulted for many fortune 500 companies in Networking, Security, and Cloud. Michael is the host of the popular podcast, Cloud Unfiltered that discusses trends in cloud native technologies. You can find Michael speaking at most major cloud native events and online media outlets.",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/mchenetz",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Watch the Cloud Unfiltered Podcast!",
+      "url": "https://www.youtube.com/@CloudUnfiltered",
+      "icon": "FaYoutube"
+    }
+  ]
+}
